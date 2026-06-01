@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Haydovchi AI</string>
+
+    <!-- Asosiy -->
+    <string name="active_trip">Aktiv reys</string>
+    <string name="financial_summary">Moliyaviy hisobot</string>
+    <string name="quick_actions">Tezkor harakatlar</string>
+    <string name="start_new_trip">Yangi reys boshlash</string>
+    <string name="add_expense">Xarajat qo\'shish</string>
+    <string name="ai_assistant">AI yordamchisi</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Bosh sahifa</string>
+    <string name="nav_trips">Reyslar</string>
+    <string name="nav_expenses">Xarajatlar</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Umumiy -->
+    <string name="income">Daromad</string>
+    <string name="expense">Xarajat</string>
+    <string name="profit">Foyda</string>
+    <string name="pause">Pauza</string>
+    <string name="finish">Tugatish</string>
+</resources>
