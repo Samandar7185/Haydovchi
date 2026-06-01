@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Haydovchi AI</string>
+
+    <!-- Dashboard -->
+    <string name="active_trip">Aktiv reys</string>
+    <string name="financial_summary">Moliyaviy hisobot</string>
+    <string name="quick_actions">Tezkor harakatlar</string>
+    <string name="start_new_trip">Yangi reys boshlash</string>
+    <string name="add_expense">Xarajat qo\'shish</string>
+    <string name="ai_assistant">AI yordamchisi</string>
+
+    <!-- Common -->
+    <string name="income">Daromad</string>
+    <string name="expense">Xarajat</string>
+    <string name="profit">Foyda</string>
+    <string name="pause">Pauza</string>
+    <string name="finish">Tugatish</string>
+</resources>
